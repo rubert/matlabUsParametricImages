@@ -1,0 +1,5 @@
+This is Matlab script for performing modulus imaging.
+It has been run on the 64-bit CN machines.  It requires
+a saved matrix of element stiffnesses in order to run
+properly.  The optimization is handled by the Trust
+Region optimization method built in to the Matlab toolbox.

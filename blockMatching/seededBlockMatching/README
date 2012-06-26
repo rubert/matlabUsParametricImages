@@ -1,0 +1,8 @@
+This is a seeded block matching algorithm written in Matlab.
+It should work with version 7.9.0 or higher.  The inputs to this
+code are two images along with a parameter structure containing
+the block matching parameters.  
+
+The algorithm is an implementation of the block matching code
+described by Chen et al.  The paper is included in the 
+repository as a pdf.
